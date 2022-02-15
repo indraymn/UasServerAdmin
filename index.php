@@ -48,5 +48,6 @@ table, th, td {
         </table>
         </div>
         </br>
+<p> echo total count : 3 </p>
 </body>
 </html>
